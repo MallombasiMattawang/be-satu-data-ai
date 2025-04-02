@@ -11,7 +11,7 @@ Pastikan sistem Anda telah menginstal:
 
 1. **Clone repository ini:**
    ```bash
-   git clone https://github.com/MallombasiMattawang/be-satu-data-ai
+   git clone https://github.com/MallombasiMattawang/be-satu-data-ai.git 
    cd satu-data-ai-be
    ```
 
@@ -39,7 +39,7 @@ Pastikan sistem Anda telah menginstal:
    php artisan key:generate
    ```
 
-5. **Jalankan migrasi dan seeder (jika ada):**
+5. **Jalankan migrasi dan seeder :**
    ```bash
    php artisan migrate --seed
    ```
